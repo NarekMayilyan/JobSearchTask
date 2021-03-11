@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JobSearch.Models/1.0.0": {
+        "dependencies": {
+          "FluentValidation.AspNetCore": "9.5.2",
+          "JobSearch.Common": "1.0.0"
+        },
+        "runtime": {
+          "JobSearch.Models.dll": {}
+        }
+      },
+      "FluentValidation/9.5.2": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.5.2.0"
+          }
+        }
+      },
+      "FluentValidation.AspNetCore/9.5.2": {
+        "dependencies": {
+          "FluentValidation": "9.5.2",
+          "FluentValidation.DependencyInjectionExtensions": "9.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.5.2.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/9.5.2": {
+        "dependencies": {
+          "FluentValidation": "9.5.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.5.2.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {},
+      "JobSearch.Common/1.0.0": {
+        "runtime": {
+          "JobSearch.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobSearch.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/9.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0TepAypNoZAFmthXnDTDrG55SyKKiv4rar2TtbS5GHbTv/TYwKJBbTxHg8YWCxLgZpe8n9jImIc0tMHKDVgA1A==",
+      "path": "fluentvalidation/9.5.2",
+      "hashPath": "fluentvalidation.9.5.2.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/9.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u4viym3RnPBvyopMJB0bY5i6rD96FujFZbPJYzTQUjXfwpc+NA8zoq3VBBWg3hYNlcCEvZJFIG5ZXtO9AejqgA==",
+      "path": "fluentvalidation.aspnetcore/9.5.2",
+      "hashPath": "fluentvalidation.aspnetcore.9.5.2.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/9.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4gLj2yfweItyxydDVfz3FVVltNJCwwDbrpZ/Gphk08KCfWJL0no7hXsnuWUJmLuvre2Cjr1XP64LX21tf8N81w==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.5.2",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.5.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    },
+    "JobSearch.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

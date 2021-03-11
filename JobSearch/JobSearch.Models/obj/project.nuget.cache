@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yJuYZcF+Rr8d3IKQiAOqrpvCNUV3PzsuXSUvmNzDlNr5ZuhQC2Z4g6arv/32hvG5cuSjvzVosmx05PuLU9aDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\narek\\source\\repos\\JobSearch\\JobSearch.Models\\JobSearch.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narek\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512",
+    "C:\\Users\\narek\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.2\\fluentvalidation.aspnetcore.9.5.2.nupkg.sha512",
+    "C:\\Users\\narek\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.2\\fluentvalidation.dependencyinjectionextensions.9.5.2.nupkg.sha512",
+    "C:\\Users\\narek\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

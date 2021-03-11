@@ -1,0 +1,12 @@
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\bin\Debug\netcoreapp3.1\JobSearch.Models.deps.json
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\bin\Debug\netcoreapp3.1\JobSearch.Models.dll
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\bin\Debug\netcoreapp3.1\JobSearch.Models.pdb
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.csprojAssemblyReference.cache
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.AssemblyInfo.cs
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.dll
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.pdb
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\bin\Debug\netcoreapp3.1\JobSearch.Common.dll
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\bin\Debug\netcoreapp3.1\JobSearch.Common.pdb
+C:\Users\narek\source\repos\JobSearch\JobSearch.Models\obj\Debug\netcoreapp3.1\JobSearch.Models.csproj.CopyComplete

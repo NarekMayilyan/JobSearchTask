@@ -1,0 +1,8 @@
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\bin\Debug\netcoreapp3.1\JobSearch.Common.deps.json
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\bin\Debug\netcoreapp3.1\JobSearch.Common.dll
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\bin\Debug\netcoreapp3.1\JobSearch.Common.pdb
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\obj\Debug\netcoreapp3.1\JobSearch.Common.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\obj\Debug\netcoreapp3.1\JobSearch.Common.AssemblyInfo.cs
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\obj\Debug\netcoreapp3.1\JobSearch.Common.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\obj\Debug\netcoreapp3.1\JobSearch.Common.dll
+C:\Users\narek\source\repos\JobSearch\JobSearch.Common\obj\Debug\netcoreapp3.1\JobSearch.Common.pdb

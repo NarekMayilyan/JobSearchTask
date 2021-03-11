@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobSearch.Common\JobSearch.Common.csproj" />
+    <ProjectReference Include="..\JobSearch.Models\JobSearch.Models.csproj" />
+  </ItemGroup>
+
+</Project>
